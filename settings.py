@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Apr 25 21:04:20 2022
+
+@author: Batman
+"""
+WIDTH = 750
+HEIGHT = 565
+GRID_SIZE = 6
+BUTTON_WIDTH = 12
+BUTTON_HEIGHT = 4
+CELLS_COUNT = GRID_SIZE * GRID_SIZE
+MINES_COUNT = (GRID_SIZE * GRID_SIZE) // 6
